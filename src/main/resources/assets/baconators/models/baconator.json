@@ -1,0 +1,7 @@
+{
+  "parent": "foodsicles:item/foodsicle",
+  "textures": {
+    "grip": "foodsicles:item/foodsicle_grip",
+    "face": "baconators:item/baconator_face"
+  }
+}
