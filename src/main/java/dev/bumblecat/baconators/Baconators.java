@@ -16,11 +16,24 @@ public class Baconators {
     public static final Baconator
             BACONATOR = null;
 
+    @ObjectHolder("darkosto")
+    public static final Baconator
+            DARKOSTO = null;
+
+    @ObjectHolder("matrixis")
+    public static final Baconator
+            MATRIXIS = null;
+
     public Baconators() {
+
         Registry.register("baconator", ()
-                -> new Baconator(new Variables()
-                .setStackSize(1)
-                .setCreativeTab(Foodsicles.creativeTab))
+                -> new Baconator(new Variables().setStackSize(1).setCreativeTab(Foodsicles.creativeTab))
+        );
+        Registry.register("darkosto", ()
+                -> new Baconator(new Variables().setStackSize(1).setCreativeTab(Foodsicles.creativeTab))
+        );
+        Registry.register("matrixis", ()
+                -> new Baconator(new Variables().setStackSize(1).setCreativeTab(Foodsicles.creativeTab))
         );
     }
 }

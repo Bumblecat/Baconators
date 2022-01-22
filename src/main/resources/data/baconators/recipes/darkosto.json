@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XB"
+  ],
+  "key": {
+    "B": {
+      "item": "baconators:baconator"
+    },
+    "X": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "baconators:darkosto"
+  }
+}

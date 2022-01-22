@@ -12,7 +12,13 @@ issueTrackerURL = "https://bumblecat.dev/issues/foodsicles"
     logoFile = "foodsicles.png"
     credits = ""
     authors = "Baijson"
-    description = ''' Its much like bacon .. but, ON A STICK !! '''
+    description = ''' Its much like bacon .. but, ON A STICK !!
+
+    > Special thank you to Darkosto & Matrixis for the awesome hours of content you two produce. you are amazing.
+    - Darkosto : https://www.twitch.tv/darkosto
+    - Matrixis : https://www.twitch.tv/matrixis
+
+    '''
 
 [[dependencies.baconators]]
     modId = "forge"
