@@ -1,7 +1,7 @@
 {
   "parent": "foodsicles:item/foodsicle",
   "textures": {
-    "particle": "foodsicles:item/baconator_face",
+    "particle": "baconators:item/baconator_face",
     "grip": "foodsicles:item/foodsicle_grip",
     "face": "baconators:item/baconator_face"
   }

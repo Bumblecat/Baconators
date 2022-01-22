@@ -1,7 +1,7 @@
 {
   "parent": "foodsicles:item/foodsicle",
   "textures": {
-    "particle": "foodsicles:item/matrixis_face",
+    "particle": "baconators:item/matrixis_face",
     "grip": "foodsicles:item/foodsicle_grip",
     "face": "baconators:item/matrixis_face"
   }
