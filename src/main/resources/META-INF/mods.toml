@@ -30,13 +30,13 @@ issueTrackerURL = "https://bumblecat.dev/issues/foodsicles"
 [[dependencies.baconators]]
     modId = "bumblecore"
     mandatory = true
-    versionRange = "[1.0,)"
+    versionRange = "[1.0.5,)"
     ordering = "NONE"
     side = "BOTH"
 
 [[dependencies.baconators]]
     modId = "foodsicles"
     mandatory = true
-    versionRange = "[1.0,)"
+    versionRange = "[1.0.6,)"
     ordering = "NONE"
     side = "BOTH"
