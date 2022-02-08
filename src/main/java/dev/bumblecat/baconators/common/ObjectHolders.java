@@ -20,6 +20,9 @@ public class ObjectHolders {
     @ObjectHolder("matrixis")
     public static final Baconator MATRIXIS = null;
 
+    @ObjectHolder("jason")
+    public static final Baconator BASEBALL = null;
+
     public static void register() {
         Registry.register("baconator", ()
                 -> new Baconator(new Variables().setStackSize(1).setCreativeTab(Foodsicles.creativeTab))
@@ -30,5 +33,9 @@ public class ObjectHolders {
         Registry.register("matrixis", ()
                 -> new Baconator(new Variables().setStackSize(1).setCreativeTab(Foodsicles.creativeTab))
         );
+        Registry.register("jason", ()
+                -> new Baconator(new Variables().setStackSize(1).setCreativeTab(Foodsicles.creativeTab))
+        );
     }
+
 }

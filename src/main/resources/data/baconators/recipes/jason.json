@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XBX"
+  ],
+  "key": {
+    "B": {
+      "item": "baconators:baconator"
+    },
+    "X": {
+      "item": "minecraft:carrot"
+    }
+  },
+  "result": {
+    "item": "baconators:jason"
+  }
+}
